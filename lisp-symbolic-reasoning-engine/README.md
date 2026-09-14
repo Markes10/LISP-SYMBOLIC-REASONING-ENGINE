@@ -1,4 +1,4 @@
-# 13 - Symbolic Calculus & Tolerance Reasoning Engine (Common Lisp)
+# Symbolic Calculus & Tolerance Reasoning Engine (Common Lisp)
 
 ## Executive Overview
 A computer algebra and engineering tolerance reasoning system written in **ANSI Common Lisp**. It performs exact symbolic differentiation, algebraic canonical reduction, and statistical **Root-Sum-Square (RSS)** tolerance stack-up analysis for precision aerospace assemblies (e.g., high-pressure turbine blade clearances).
