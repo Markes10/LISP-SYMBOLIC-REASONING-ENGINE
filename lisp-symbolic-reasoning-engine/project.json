@@ -1,0 +1,8 @@
+{
+  "id": "13",
+  "name": "13-lisp-symbolic-reasoning-engine",
+  "title": "Symbolic Engineering Reasoning Engine",
+  "language": "Common Lisp",
+  "domain": "Symbolic AI & Constraint-Based Engineering",
+  "description": "Performs first-order unification, symbolic differentiation of mechanical stress equations, and constraint satisfaction for assembly tolerance stack-up."
+}
